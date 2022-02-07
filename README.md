@@ -48,3 +48,7 @@ This analysis shows that there is a significant number of male subscribers on th
 Des Moines being a smaller city with a significantly lower population size compared to New York City, a deeper analysis should be performed to explore:
     . the average trip duration by gender and by birth year to determine a method that would incite more females to use the application.
     . the average peak hours all year round .
+
+
+LINK TO TABLEAU:
+[link to dashboard](https://public.tableau.com/app/profile/stessy8140/viz/NYC_Citibike_16440858988950/Dashboard1?publish=yes)
